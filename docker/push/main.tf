@@ -23,3 +23,4 @@ resource "null_resource" "command" {
     EOT
   }
 }
+output "test"  { value = "test" }
